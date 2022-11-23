@@ -30,3 +30,15 @@ Específicos
 2.3 Marco teorico
 
 El análisis de nodos se realiza mediante la aplicación de LCK, la cual es la ley de corrientes de Kirchhoff, ayuda a encontrar los voltajes de nodos del circuito. Para la construcción del sistema de ecuaciones, existe para una ecuación para cada nodo. Un nodo es cualquier punto en un circuito donde se encuentren conectados dos o más componentes, para su análisis se debe tener en cuenta que las corrientes que salen del nodo son positivas y las que entran son negativas.
+
+![image](https://user-images.githubusercontent.com/104911658/203655581-ce020384-918e-4bcf-8d65-929afd439760.png)
+
+![image](https://user-images.githubusercontent.com/104911658/203655546-9176d907-343a-4a66-850e-80c4830be549.png)
+
+2.4. MATERIAL Y EQUIPO REQUERIDO
+![image](https://user-images.githubusercontent.com/104911658/203655743-8214a208-04e7-4923-ae53-911279604ca2.png)
+
+2.5 PROCEDIMIENTO
+
+![image](https://user-images.githubusercontent.com/104911658/203655853-e9e7d04b-bd5c-4bd6-8171-dba02f8c7d5f.png)
+
