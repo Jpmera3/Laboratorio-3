@@ -35,7 +35,9 @@ El análisis de nodos se realiza mediante la aplicación de LCK, la cual es la l
 
 ![image](https://user-images.githubusercontent.com/104911658/203655546-9176d907-343a-4a66-850e-80c4830be549.png)
 
+
 2.4. MATERIAL Y EQUIPO REQUERIDO
+
 ![image](https://user-images.githubusercontent.com/104911658/203655743-8214a208-04e7-4923-ae53-911279604ca2.png)
 
 2.5 PROCEDIMIENTO
