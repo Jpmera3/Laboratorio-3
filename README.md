@@ -44,3 +44,20 @@ El análisis de nodos se realiza mediante la aplicación de LCK, la cual es la l
 
 ![image](https://user-images.githubusercontent.com/104911658/203655853-e9e7d04b-bd5c-4bd6-8171-dba02f8c7d5f.png)
 
+
+
+
+
+
+
+3.5.3. Simule en el software Thinkercad, el circuito de la figura 3.1, obteniendo los
+valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.
+
+
+
+![Incredible Trug-Bigery](https://user-images.githubusercontent.com/107088999/203874912-08507c16-e21f-457d-92d2-c1f05a63c6e8.png)
+
+
+3.5.4. Compare los valores de la tabla 3.1 y realice sus conclusiones.
+
+
