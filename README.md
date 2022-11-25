@@ -60,4 +60,17 @@ valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.
 
 3.5.4. Compare los valores de la tabla 3.1 y realice sus conclusiones.
 
+![image](https://user-images.githubusercontent.com/107088999/203886955-ba495003-f08b-4545-abd7-9323786ddbea.png)
+
+Calcular errores de las mediciones y comentar los resultados.
+
+![image](https://user-images.githubusercontent.com/107088999/203888827-3f6b9762-86ee-4236-a523-961a28571f4f.png)
+
+
+CONCLUSIONES
+
+- Al realizar el trabajo expermental, analitico y simulado hemos podido corroborar los datos que nos muestran un margen de error mas pequeño tomando en cuenta trabajos anteriores lo cual indica que vamos dominando cada una de las maneras en la nos plantean el trabajo.
+
+-La eficiecia al entender los conceptos en el trabajo se ha visto reflejada en el tiempo que nos toma hacer el laboratorio.
+
 
