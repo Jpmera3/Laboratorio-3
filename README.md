@@ -44,6 +44,8 @@ El análisis de nodos se realiza mediante la aplicación de LCK, la cual es la l
 
 ![image](https://user-images.githubusercontent.com/104911658/203655853-e9e7d04b-bd5c-4bd6-8171-dba02f8c7d5f.png)
 
+3.5.2.	Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.
+
 
 
 
