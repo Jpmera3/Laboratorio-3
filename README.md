@@ -46,11 +46,27 @@ El análisis de nodos se realiza mediante la aplicación de LCK, la cual es la l
 
 3.5.2.	Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.
 
+Circuito Experimental
 
+![CIRCUITO lab 3](https://user-images.githubusercontent.com/117534483/203898498-b22606c7-3adc-4fbc-bb8f-ef517d1e3e46.jpg)
 
+Análisis de circuito experimental
 
+![A Circu Lab 3](https://user-images.githubusercontent.com/117534483/203898644-6c5196ad-3777-4400-a34f-48d078df76a2.jpg)
 
+Valor medido del NODO Va circuito experimental
 
+![NODO VA](https://user-images.githubusercontent.com/117534483/203898724-4a8cb56d-9ac2-4f0d-b92f-7ca182779f15.jpg)
+
+Valor medido del NODO Vb circuito experimental
+
+![NODO VB](https://user-images.githubusercontent.com/117534483/203898761-1a00f0d1-6010-4580-b2c7-9c418b9728a1.jpg)
+
+Valor medido del NODO VC circuito experimental
+
+![NODO VC](https://user-images.githubusercontent.com/117534483/203898778-0f7a5b92-25bf-4a2b-a0e7-328f0af6e114.jpg)
+
+El nodo Vc tiene un valor de 0V por ser el voltaje de Referencia o Tierra para el circuito experimental.
 
 3.5.3. Simule en el software Thinkercad, el circuito de la figura 3.1, obteniendo los
 valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.
