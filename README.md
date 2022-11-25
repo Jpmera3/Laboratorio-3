@@ -71,10 +71,7 @@ El nodo Vc tiene un valor de 0V por ser el voltaje de Referencia o Tierra para e
 3.5.3. Simule en el software Thinkercad, el circuito de la figura 3.1, obteniendo los
 valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.
 
-
-
 ![Incredible Trug-Bigery](https://user-images.githubusercontent.com/107088999/203874912-08507c16-e21f-457d-92d2-c1f05a63c6e8.png)
-
 
 3.5.4. Compare los valores de la tabla 3.1 y realice sus conclusiones.
 
@@ -84,6 +81,9 @@ Calcular errores de las mediciones y comentar los resultados.
 
 ![image](https://user-images.githubusercontent.com/107088999/203888827-3f6b9762-86ee-4236-a523-961a28571f4f.png)
 
+VIDEO
+
+
 
 CONCLUSIONES
 
@@ -91,4 +91,7 @@ CONCLUSIONES
 
 -La eficiecia al entender los conceptos en el trabajo se ha visto reflejada en el tiempo que nos toma hacer el laboratorio.
 
+BIBLIOGRAFÍA
+
+*Floyd, T. (2007). Principios de circuitos eléctricos (Ed. 8va). Educación Pearson.
 
