@@ -17,7 +17,6 @@ Laboratorio Nro: 3 TEMA: Análisis de nodos
 2.1 Objetivo General:
 
 Comprobar experimentalmente el Análisis de Nodos en el circuito propuesto para la presente práctica.
-Específicos
 
 2.2 Objetivos especificos:
 
